@@ -31,7 +31,7 @@ WAS INSTALLED CORRECTLY BEFORE SHIPPING THE CODE TO PRODUCTION
 * Go to your magento root path
 * Execute command `cd /var/www/Magento` or
  `cd /var/www/html/Magento` based on your server Centos or Ubuntu.
-* run composer command: `composer require techyouknow/skurl`
+* run composer command: `composer require techyouknow/module-skurl`
 - To enable module execute `php bin/magento module:enable Techyouknow_Skurl`
 - Execute `php bin/magento setup:upgrade`
 - Optional `php bin/magento setup:static-content:deploy`
