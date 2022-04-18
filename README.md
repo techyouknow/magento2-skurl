@@ -5,7 +5,7 @@ The sales and marketing team would love this extension. Make things much easier 
 
 The router is configurable on the backend.
 
-![docs](https://i.imgur.com/nS421YB.png)
+![docs](https://i.imgur.com/QN77ovE.png)
 
 ## What's included?
 

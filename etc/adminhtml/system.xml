@@ -26,8 +26,9 @@
                             <strong>2. for adding the product to cart directly:</strong> <br/>
                             https://&lt;domain&gt;/&lt;routername&gt;?sku=&lt;sku&gt;&amp;qty=&lt;qty&gt;
                             <br/>
-                            <strong>3. for viewing the product image:</strong> <br/>
-                            https://&lt;domain&gt;/&lt;routername&gt;/image?sku=&lt;sku&gt;
+                            <strong>3. for viewing the product image/video:</strong> <br/>
+                            https://&lt;domain&gt;/&lt;routername&gt;/media?sku=&lt;sku&gt;<br/>
+                            https://&lt;domain&gt;/&lt;routername&gt;/media?sku=&lt;sku&gt;&amp;position=&lt;position&gt;
                         ]]>
                     </comment>
                     <depends>
